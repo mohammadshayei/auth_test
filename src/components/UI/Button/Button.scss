@@ -1,0 +1,18 @@
+.button-container {
+  outline: none;
+  width: 10rem;
+  height: 2rem;
+  background-color: rgb(100, 100, 185);
+  border-radius: 0.2rem;
+  box-sizing: border-box;
+  padding: 0.4rem 1rem;
+  text-align: center;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &:hover{
+  background-color: rgb(83, 83, 177);
+
+  }
+}
